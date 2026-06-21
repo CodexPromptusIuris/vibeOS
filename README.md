@@ -1,6 +1,6 @@
 # vibeOS
 Que es VibeOS
-VibeOS es un entorno de escritorio web que integra un conjunto de herramientas legales potenciadas por IA en una sola interfaz tipo OS. Funciona como un archivo HTML autocontenido: sin backend propio, sin build step, sin dependencias npm. Solo abre el archivo en el navegador y opera.
+VibeOS es un entorno de escritorio web que integra un conjunto de herramientas legales potenciadas por IA en una sola interfaz tipo OS. Funciona como un archivo HTML autocontenido: sin backe de propio, sin build step, sin dependencias npm. Solo abre el archivo en el navegador y opera.
 Casos de uso:
 Firmas legales que necesitan un asistente IA sobre normativa local
 Empresas que deben cumplir con leyes de datos (Ley 21.719, GDPR, LGPD, etc.)
